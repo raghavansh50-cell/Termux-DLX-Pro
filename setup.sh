@@ -19,3 +19,5 @@ else
 fi
 
 echo -e "\e[1;32m[✔] SETUP COMPLETE! Ab aap 'python downloader.py' chala sakte hain.\e[0m"
+echo "python $PWD/downloader.py \"\$@\"" > $PREFIX/bin/dlx
+chmod +x $PREFIX/bin/dlx
