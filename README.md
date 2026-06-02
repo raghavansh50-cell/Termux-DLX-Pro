@@ -10,10 +10,11 @@
 ## 📥 Installation & Setup
 Termux kholo aur ye commands ek-ek karke chalao:
 
-```bash
+```
 git clone https://github.com/raghavansh50-cell/Termux-DLX-Pro
 cd Termux-DLX-Pro
 bash setup.sh
-python downloader.py```
+python downloader.py
+```
 Created with ❤️ by a 13-year-old developer.
 
